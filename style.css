@@ -39,3 +39,9 @@ button {
     font-family: 'Georgia', serif; /* Fancy serif font */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
 }
+
+.small-image {
+    max-width: 150px; /* Limit the image width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image */
+}
