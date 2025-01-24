@@ -24,3 +24,8 @@ button {
     font-size: 0.875rem;
     padding: 0.25rem 0.5rem;
 }
+
+.menu-item img {
+    max-height: 150px; /* Limit the image height */
+    object-fit: cover; /* Crop image to fit the box */
+}
