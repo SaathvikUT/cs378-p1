@@ -33,7 +33,7 @@ button {
 }
 
 .fancy-text {
-    font-size: 1.5rem; /* Increase font size */
+    font-size: 1.0rem; /* Increase font size */
     font-style: italic; /* Make text italic */
     color: #CC5500; /* Tomato color */
     font-family: 'Georgia', serif; /* Fancy serif font */
